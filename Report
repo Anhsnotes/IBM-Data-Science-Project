@@ -1,0 +1,16 @@
+Suggesting Ideal Location to open a Nails Salon in Reno Metropolitan area
+
+1. Introduction
+1.1 Background
+Reno area is growing due to big companies like Tesla, Panasonic, Google, Apple and Amazon came in. There are opportunities for small businesses to support the growing population. Investors, with background in Nails industry, are interested in opening a new Nails Salon in Reno area to capture the opportunity.
+1.2 Problem
+This research will identify possible store locations with their competitive advantage and rank them from most favourable to least favourable.
+1.3 Interest
+This is a big investment and location is the first decision that investors need to make. To better ensure the success of their investment, they would like to know where should they open the store and how is the competitive advantage they have based on the location
+
+
+2. Data acquisition and cleaning
+2.1 Data sources
+Main data source is obtained through Foursquare API call. We will capture information of venues in 15 miles radius from the center of Reno.
+2.2 Data cleaning
+2.3 Feature selection
