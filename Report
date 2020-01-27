@@ -12,5 +12,13 @@ This is a big investment and location is the first decision that investors need 
 2. Data acquisition and cleaning
 2.1 Data sources
 Main data source is obtained through Foursquare API call. We will capture information of venues in 15 miles radius from the center of Reno.
+Here are the features that we would need to extract from Foursquare:
+- Report Venue Selection
+- Get Trending Venues
+- Get Users Who Liked a Venue
+- Get Venue Categories
+- Get Similar Venues
+With this information, we can see the overal business landscape of targeted area and provide suggestion.
+
 2.2 Data cleaning
 2.3 Feature selection
